@@ -106,6 +106,29 @@ The dashboard file can be found in the **dashboard** folder.
 
 ---
 
+## Visualizations
+
+### Churn Distribution
+![Churn Distribution](visuals/churn_distribution.png)
+
+### Contract Type vs Churn
+![Contract Churn](visuals/contract_churn.png)
+
+### Payment Method vs Churn
+![Payment Churn](visuals/payment_churn.png)
+
+### Internet Service vs Churn
+![Internet Churn](visuals/internet_churn.png)
+
+### Tech Support vs Churn
+![Tech Support Churn](visuals/techsupport_churn.png)
+
+### Customer Tenure Distribution
+![Tenure Distribution](visuals/tenure_distribution.png)
+
+### Monthly Charges vs Churn
+![Monthly Charges](visuals/monthly_charges_churn.png)
+
 ## Conclusion
 
 This project demonstrates how data analysis and visualization can help identify customer churn patterns and provide insights that businesses can use to improve customer retention strategies.
